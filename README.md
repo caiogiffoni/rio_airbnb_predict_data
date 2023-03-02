@@ -1,5 +1,5 @@
 <h1 align="center">
-  Analise de Dados e Previsão de Preço- Airbnb RJ
+  Análise de Dados e Previsão de Preço- Airbnb RJ
 </h1>
 
 
