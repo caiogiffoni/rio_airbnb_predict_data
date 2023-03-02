@@ -1,7 +1,13 @@
+dataset
+first_registers.csv
+model.joblib
+new_data_airbnb.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
